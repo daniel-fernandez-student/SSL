@@ -1,1 +1,1 @@
-compilador seleccionado: C18
+compilador seleccionado minGW --version 12.2.0 -std=c18
